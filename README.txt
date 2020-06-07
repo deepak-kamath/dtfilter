@@ -1,0 +1,1 @@
+This package provides functions commonly used for data filtering/analysis
